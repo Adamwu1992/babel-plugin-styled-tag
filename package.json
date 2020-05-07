@@ -1,7 +1,7 @@
 {
   "name": "babel-plugin-styled-tag",
   "version": "0.1.0",
-  "description": "How to create a plugin for Babel",
+  "description": "🤔 Create a plugin for Babel.",
   "main": "lib/index.js",
   "scripts": {
     "test": "babel src/index.js -o dist/index.js"
