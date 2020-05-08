@@ -7,7 +7,7 @@
 src/index.js
 
 ```javascript
-const MY_DIV = {
+const STYLED_DIV = {
   fontSize: 14,
   color: 'red'
 }, a = 1;
@@ -17,13 +17,13 @@ const b = 2;
 const App = () => {
   console.log(a + b)
   return (
-    <MY_DIV className="container" style={{
+    <STYLED_DIV className="container" style={{
         height: '100%',
         padding: 10,
         color: '#333'
     }}>
       hello world
-    </MY_DIV>
+    </STYLED_DIV>
   )
 }
 
