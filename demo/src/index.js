@@ -13,7 +13,7 @@ const App = () => {
         padding: 10,
         color: '#333'
     }}>
-      hello world
+      <MY_SPAN>hello world</MY_SPAN>
     </MY_DIV>
   )
 }
